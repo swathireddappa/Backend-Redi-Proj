@@ -1,0 +1,138 @@
+{
+    "places" :[
+        {
+            "id" : 1,
+            "name": "Munich",
+            "timing": "6-8",
+            "duration":"2days",
+            "price":"100",
+            "pics":["https://ik.imagekit.io/8sp02fxgg/munich2.webp?updatedAt=1686827607858",
+             "https://ik.imagekit.io/8sp02fxgg/munich3.webp?updatedAt=1686828644798",
+             "https://ik.imagekit.io/8sp02fxgg/munich4.png?updatedAt=1686828644987" ,
+             " https://ik.imagekit.io/8sp02fxgg/munich5.jpg?updatedAt=1686828644597" ,
+             "https://ik.imagekit.io/8sp02fxgg/munich6.jpg?updatedAt=1686828644918" ,
+             "https://ik.imagekit.io/8sp02fxgg/munich1.jpg?updatedAt=1686827321737"]
+        },
+
+
+        {
+            "id" : 2,
+            "name": "Tricity",
+            "timing": "8-9",
+            "duration":"4days",
+            "price":"120",
+            "pics":["https://ik.imagekit.io/8sp02fxgg/tricity1.png?updatedAt=1686831886385" ,
+            "https://ik.imagekit.io/8sp02fxgg/tricity2.jpg?updatedAt=1686831886233",
+            "https://ik.imagekit.io/8sp02fxgg/tricity3.jpg?updatedAt=1686831886059",
+            "https://ik.imagekit.io/8sp02fxgg/tricity4.jpg?updatedAt=1686831886352",
+            "https://ik.imagekit.io/8sp02fxgg/tricity5.jpg?updatedAt=1686831886339",
+            "https://ik.imagekit.io/8sp02fxgg/tricity6.jpg?updatedAt=1686831886358"]
+        },
+
+        {
+            "id" : 3,
+            "name": "Prague",
+            "timing": "7-9",
+            "duration":"3days",
+            "price":"150",
+            "pics":["https://ik.imagekit.io/8sp02fxgg/prague1.webp?updatedAt=1686833339504",
+                    "https://ik.imagekit.io/8sp02fxgg/prague.2.jpg?updatedAt=1686833813656",
+                    "https://ik.imagekit.io/8sp02fxgg/prague3.jpg?updatedAt=1686833339193",
+                    "https://ik.imagekit.io/8sp02fxgg/prague4.jpg?updatedAt=1686833339415",
+                    "https://ik.imagekit.io/8sp02fxgg/prague5.jpg?updatedAt=1686833339331",
+                    "https://ik.imagekit.io/8sp02fxgg/prague6.jpg?updatedAt=1686833468968"]
+        },
+
+        {
+            "id" : 4,
+            "name": "Italy",
+            "timing": "6-8",
+            "duration":"5days",
+            "price":"175",
+            "pics":["https://ik.imagekit.io/8sp02fxgg/italy1.jpg?updatedAt=1686860389793",
+                    "https://ik.imagekit.io/8sp02fxgg/italy2.jpg?updatedAt=1686860389741",
+                    "https://ik.imagekit.io/8sp02fxgg/italy3.jpg?updatedAt=1686860389834",
+                    "https://ik.imagekit.io/8sp02fxgg/italy4.jpg?updatedAt=1686860389887",
+                    "https://ik.imagekit.io/8sp02fxgg/italy5.jpg?updatedAt=1686860390703",
+                    "https://ik.imagekit.io/8sp02fxgg/italy6.jpeg?updatedAt=1686860734844"]
+        },
+
+        {
+            "id" : 5,
+            "name": "Barcelona",
+            "timing": "8-9",
+            "duration":"6days",
+            "price":"200",
+            "pics": ["https://ik.imagekit.io/8sp02fxgg/barcelona1.webp?updatedAt=1686861494893",
+                    "https://ik.imagekit.io/8sp02fxgg/bercelona2.avif?updatedAt=1686861494920",
+                    "https://ik.imagekit.io/8sp02fxgg/barcelona3.jpg?updatedAt=1686861494720",
+                    "https://ik.imagekit.io/8sp02fxgg/barcelona4.jpg?updatedAt=1686861494365",
+                    "https://ik.imagekit.io/8sp02fxgg/barcelona5.jpg?updatedAt=1686861494636",
+                    "https://ik.imagekit.io/8sp02fxgg/barcelona6.jpg?updatedAt=1686861494561"]
+
+        }, 
+
+        {
+            "id" :6,
+            "name": "Paris",
+            "timing": "7-9",
+            "duration":"7days",
+            "price":"230",
+            "pics":["https://ik.imagekit.io/8sp02fxgg/paris1.webp?updatedAt=1686862851956",
+                    "https://ik.imagekit.io/8sp02fxgg/paris2.webp?updatedAt=1686862851995",
+                    "https://ik.imagekit.io/8sp02fxgg/paris3.jpg?updatedAt=1686862851859",
+                    "https://ik.imagekit.io/8sp02fxgg/paris4.jpg?updatedAt=1686862851344",
+                    "https://ik.imagekit.io/8sp02fxgg/paris5.jpg?updatedAt=1686862851839",
+                    "https://ik.imagekit.io/8sp02fxgg/paris6.webp?updatedAt=1686862851960"]
+                    
+            
+        }
+        
+    ]
+,
+
+         "orders": [
+    {
+        "id": 1,
+        "client": "Clara",
+        "adults": "2",
+        "children": "1",
+        "amount": "450",
+        "email": "abc@email.com",
+        "phone": "44 333 222",
+        "date": "7/7"
+    },
+     {
+        "id": 2,
+        "client": "Smith",
+        "adults": "2",
+        "children": "1",
+        "amount": "1200",
+        "email": "def@email.com",
+        "phone": "44 333 222",
+        "date": "4/7"
+
+    }, 
+    {
+        "id": 3,
+        "client": "Adhya",
+        "adults": "4",
+        "children": "3",
+        "amount": "1800",
+        "email": "ghi@email.com",
+        "phone": "44 333 222",
+        "date": "11/7"
+    },
+     {
+        "id": 4,
+        "client": "Sam",
+        "adults": "6",
+        "children": "8",
+        "amount": "2000",
+        "email": "jkl@email.com",
+        "phone": "44 333 222",
+        "date": "20/7"
+     }
+]
+}
+
