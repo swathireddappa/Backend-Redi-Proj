@@ -138,8 +138,8 @@
         "Contact": "6678076578",
         "kids" : "2",
         "adults":"2",
-        "Checkin-date":"10-5-2023",
-        "checkout-date":"13-5-2023",
+        "Checkin":"10-5-2023",
+        "checkout":"13-5-2023",
         "cost":" 210 €",
         "city":"Barcelona"
      }
