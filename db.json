@@ -94,44 +94,54 @@
          "orders": [
     {
         "id": 1,
-        "client": "Clara",
-        "adults": "2",
-        "children": "1",
-        "amount": "450",
-        "email": "abc@email.com",
-        "phone": "44 333 222",
-        "date": "7/7"
+        "name" : "Adhya",
+        "email" : "adhya@gmail.com",
+        "Contact": "768913452",
+        "kids" : "1",
+        "adults":"2",
+        "Checkin-date":"23-5-2023",
+        "checkout-date":"27-5-2023",
+        "cost":"175 €",
+        "city":"Munich"
+        
     },
      {
         "id": 2,
-        "client": "Smith",
-        "adults": "2",
-        "children": "1",
-        "amount": "1200",
-        "email": "def@email.com",
-        "phone": "44 333 222",
-        "date": "4/7"
+        "name" : "Poorvi",
+        "email" : "poorvi@gmail.com",
+        "Contact": "7623456133",
+        "kids" : "2",
+        "adults":"2",
+        "Checkin-date":"21-5-2023",
+        "checkout-date":"22-5-2023",
+        "cost":"210 €",
+        "city":"Italy"
+        
 
     }, 
     {
         "id": 3,
-        "client": "Adhya",
-        "adults": "4",
-        "children": "3",
-        "amount": "1800",
-        "email": "ghi@email.com",
-        "phone": "44 333 222",
-        "date": "11/7"
+        "name" : "Sam",
+        "email" : "s@email.com",
+        "Contact": "9876512345",
+        "kids" : "1",
+        "adults":"3",
+        "Checkin-date":"16-6-2023",
+        "checkout-date":"14-6-2023",
+        "cost":"245 €",
+        "city":"Prague"
     },
      {
         "id": 4,
-        "client": "Sam",
-        "adults": "6",
-        "children": "8",
-        "amount": "2000",
-        "email": "jkl@email.com",
-        "phone": "44 333 222",
-        "date": "20/7"
+        "name" : "Tom",
+        "email" : "tom@gmail.com",
+        "Contact": "6678076578",
+        "kids" : "2",
+        "adults":"2",
+        "Checkin-date":"10-5-2023",
+        "checkout-date":"13-5-2023",
+        "cost":" 210 €",
+        "city":"Barcelona"
      }
 ],
 "admin": {
