@@ -99,8 +99,8 @@
         "Contact": "768913452",
         "kids" : "1",
         "adults":"2",
-        "Checkin-date":"23-5-2023",
-        "checkout-date":"27-5-2023",
+        "Checkin":"May-14-2023",
+        "checkout":"May-15-2023",
         "cost":"175 €",
         "city":"Munich"
         
@@ -112,8 +112,8 @@
         "Contact": "7623456133",
         "kids" : "2",
         "adults":"2",
-        "Checkin-date":"21-5-2023",
-        "checkout-date":"22-5-2023",
+        "Checkin":"April-05-2023",
+        "checkout":"April-06-2023",
         "cost":"210 €",
         "city":"Italy"
         
@@ -126,8 +126,8 @@
         "Contact": "9876512345",
         "kids" : "1",
         "adults":"3",
-        "Checkin-date":"16-6-2023",
-        "checkout-date":"14-6-2023",
+        "Checkin":"June-16-2023",
+        "checkout":"June-14-2023",
         "cost":"245 €",
         "city":"Prague"
     },
@@ -138,8 +138,8 @@
         "Contact": "6678076578",
         "kids" : "2",
         "adults":"2",
-        "Checkin":"10-5-2023",
-        "checkout":"13-5-2023",
+        "Checkin":"May-10-2023",
+        "checkout":"May-13-2023",
         "cost":" 210 €",
         "city":"Barcelona"
      }
